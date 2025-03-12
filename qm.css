@@ -1,0 +1,79 @@
+@media  screen and (max-width:768px) {
+    .maeqm {
+        display: flex;
+        width: 100%;
+        max-width: 500px; 
+        height: auto; 
+        text-align: center;
+        gap: 80px;
+    }
+    .br{
+        width: 150px;
+        height: 150px;
+        max-width: 228px; 
+        height: auto; }
+    .tudo{
+        flex-direction: column;
+        gap: 15px;
+    }
+    .footer {
+        background-color: #000000;
+        color: #fff; 
+        padding: 0px; 
+        text-align: center; 
+        width: 100%; 
+        max-width: 573px; 
+        height: auto; 
+        border-radius: 0px;
+    }
+    
+    .footer-content {
+        max-width: 100%; 
+        margin: 0 auto; 
+    }
+    
+    .social-links {
+        margin-top: 10px; 
+    }
+    
+    .social-icon {
+        margin: 0 5px; 
+    
+    .social-icon img {
+        width: 30px; 
+        height: auto; 
+        transition: transform 0.3s; 
+    }
+    
+    .social-icon:hover img {
+        transform: scale(1.1);
+    }
+    p{
+        font-style: initial;
+        font-size: 20px;
+        display: block;
+        margin-block-start: 1em;
+        margin-block-end: 1em;
+        margin-inline-start: 0px;
+        margin-inline-end: 0px;
+        unicode-bidi: isolate;
+       margin: 10px;
+       width: 50px auto;
+       height: 60px auto;
+    }
+    *{
+        margin: 0%;
+    }
+    h1{
+        text-align: center;
+        color: rgb(0, 0, 0) ;
+    }
+    body {
+        background-color: rgb(255, 255, 255);
+    }
+    .texto {
+        width: 406px;
+        height: 852px;
+    }
+}
+}

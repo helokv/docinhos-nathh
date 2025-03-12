@@ -1,0 +1,118 @@
+@media screen and (max-width:768px) {
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f9f9f9;
+    margin: 0;
+    padding: 0px;
+}
+
+.container {
+    max-width: 600px;
+    margin: auto;
+    background: #fff;
+    padding: 0px;
+    border-radius: 0px;
+}
+
+h1, h2 {
+    color: #000000;
+}
+
+.contact-info {
+    margin-bottom: 20px;
+}
+
+.contact-info p {
+    margin: 5px 0;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+}
+
+label {
+    margin: 10px 0 5px;
+}
+
+input, textarea {
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    margin-bottom: 10px;
+}
+
+button {
+    padding: 10px;
+    background-color: #5cb85c;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #4cae4c;
+}
+a{
+    color: black;
+    text-decoration: none;
+}
+.footer {
+    background-color: #000000; 
+    color: #fff; 
+    padding: 10px;
+    text-align: center;
+    width: 100%; 
+    max-width: 573px; 
+    height: auto;
+    border-radius: 0px;
+}
+
+.footer-content {
+    max-width: 100%; 
+    margin: 0 auto; 
+}
+
+.social-links {
+    margin-top: 10px; 
+}
+
+.social-icon {
+    margin: 0 5px;
+}
+
+.social-icon img {
+    width: 30px; 
+    height: auto;
+    transition: transform 0.3s; 
+}
+
+.social-icon:hover img {
+    transform: scale(1.1);
+}
+.maeqm {
+    display: block;
+    width: 100%; 
+    max-width: 500px; 
+    height: auto; 
+    text-align: center;
+}
+.br{
+     width: 100%; 
+    max-width: 228px;
+    height: auto; }
+}
+.meio {width: 100%; 
+    align-items: center;
+    flex-direction: column;
+    display: block;
+    height: 700px;
+    margin: 10px;
+    
+}
+
+*{
+    margin: 0%;
+}
+    
